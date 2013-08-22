@@ -14,7 +14,7 @@ Telmo Menezes, "Evolutionary Modeling of a Blog Network":{{ site.baseurl }}publi
 
 Telmo Menezes, Camille Roth, Jean-Philippe Cointet, "Precursors and Laggards: An Analysis of Semantic Temporal Relationships on a Blog Network":{{ site.baseurl }}publications/precursors-and-laggards, _Proc. of the IEEE International Conference on Social Computing, SocialCom10_, Minneapolis, USA, August 2010
 
-Telmo Menezes, Evolutionary Computational Intelligence for Multi-Agent Simulations. _Ph.D. Thesis_, University of Coimbra, 2009
+Telmo Menezes, "Evolutionary Computational Intelligence for Multi-Agent Simulations":{{ site.baseurl }}phd, _Ph.D. Thesis_, University of Coimbra, 2009
 
 Telmo Menezes, Ernesto Costa, "Artificial Brains as Networks of Computational Building Blocks":{{ site.baseurl }}publications/artificial-brains-as-networks-of-computational-building-blocks, _Proc. of the 5th European Conference on Complex Systems_, Jerusalem, Israel, September 2008
 
