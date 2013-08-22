@@ -3,10 +3,9 @@ layout: default
 title: Telmo Menezes
 ---
 
+<img src="{{ site.baseurl }}images/telmo.jpg" width="200px" align="left" style="margin-right:20px"/>
 
-## About
-
-My name is Telmo Menezes and I am a Computer Scientist and Hacker, with a background and strong interest in Complex Systems and Computational Intelligence. I also love to build cool stuff. I use this site as a repository of information about my projects, publications, and anything else I believe worthy of sharing with the world.
+I am a Computer Scientist and Hacker, with a background and strong interest in Artificial Intelligence and Complex Systems. I also love to build cool stuff. I use this site as a repository of information about my projects, publications, and anything else I believe worthy of sharing with the world.
 
 ## Short Bio
 
