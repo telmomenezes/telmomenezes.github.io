@@ -5,7 +5,7 @@ title: PhD
 
 # My PhD Thesis: Evolutionary Computational Intelligence for Multi-Agent Simulations
 
-You can download a pdf version of my thesis [here](http://telmomenezes.com/resources/Telmo_Menezes_PhD_Thesis.pdf).
+You can download a pdf version of my thesis [here]({{ site.baseurl }}resources/Telmo_Menezes_PhD_Thesis.pdf).
 
 # Abstract
 

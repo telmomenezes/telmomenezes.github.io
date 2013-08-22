@@ -9,8 +9,8 @@ title: Precursors and Laggards
 **Authors:** Telmo Menezes, Camille Roth and Jean-Philippe Cointet
 _IEEE International Conference on Social Computing, SocialCom10, Minneapolis, USA, August 2010_
 
-[Download Preprint (PDF)](http://telmomenezes.com/resources/SocialCom10_preprint_Menezes.pdf)
-[Download Presentation (PDF)](http://telmomenezes.com/resources/SocialCom10_presentation_Menezes.pdf)
+[Download Preprint (PDF)]({{ site.baseurl }}resources/SocialCom10_preprint_Menezes.pdf)
+[Download Presentation (PDF)]({{ site.baseurl }}resources/SocialCom10_presentation_Menezes.pdf)
 [arXiv](http://arxiv.org/abs/1009.0119)
 
 ## Media Mentions
