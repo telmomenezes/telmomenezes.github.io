@@ -3,13 +3,13 @@ layout: default
 title: PhD
 ---
 
-h1. My PhD Thesis: Evolutionary Computational Intelligence for Multi-Agent Simulations
+# My PhD Thesis: Evolutionary Computational Intelligence for Multi-Agent Simulations
 
-You can download a pdf version of my thesis "here":http://telmomenezes.com/resources/Telmo_Menezes_PhD_Thesis.pdf.
+You can download a pdf version of my thesis [here](http://telmomenezes.com/resources/Telmo_Menezes_PhD_Thesis.pdf).
 
-h2. Abstract
+# Abstract
 
-*Keywords*: Computational Intelligence; Multi-Agent Simulations; Evolutionary Computation; Genetic Programming; Complex Systems; Artificial Life; Emergence of Group-Behavior; Bloat Control.
+**Keywords**: Computational Intelligence; Multi-Agent Simulations; Evolutionary Computation; Genetic Programming; Complex Systems; Artificial Life; Emergence of Group-Behavior; Bloat Control.
 
 The growing interest in multi-agent simulations, influenced by the advances in fields like the sciences of complexity and artificial life is related to a modern direction in computational intelligence research. Instead of building isolated artificial intelligence systems from the top-down, this new approach attempts to design systems where a population of agents and the environment interact and adaptation processes take place.
 
