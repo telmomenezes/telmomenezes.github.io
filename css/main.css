@@ -34,7 +34,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #049cce;
 }
 
 a:hover {
@@ -42,7 +42,11 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #0e31d5;
+}
+
+strong {
+  color: #b90035;
 }
 
 .site {
