@@ -1,0 +1,5 @@
+<img src="{{ site.baseurl }}images/synthetic.png" width="300px" align="left" style="margin-right:20px"/>
+
+Synthetic is a scientific experimentation tool aimed at studying the genesis and dynamics of complex networks using multi-agent simulations and evolutionary computation.
+
+Following a standard view in Complexity Science, networks are seen as the emergent outcome of the local, low-level interactions of autonomous agents. The idea of using a multi-agent simulation to model a complex network is not new, but it presents challenges to the human modeler. As simplifying assumptions are removed, or the target network becomes more complex, the discovery of the corresponding low-level mechanism becomes harder. Synthetic aims at aiding and, to a degree, automating this discovery process with evolutionary search.
