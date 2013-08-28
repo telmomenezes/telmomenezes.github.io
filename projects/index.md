@@ -1,20 +1,10 @@
 ---
 layout: default
-title: Telmo Menezes
+title: Projects
 ---
 
-<div class="figure">
-<img src="{{ site.baseurl }}images/telmo.jpg" width="200px" />
-<div class="caption">Photo by <a href="http://giselafrancisco.com">Gisela Francisco</a></div>
-</div>
 
-I am a Computer Scientist and Hacker, with a background and strong interest in Artificial Intelligence and Complex Systems. I also love to build cool stuff. I use this site as a repository of information about my projects, publications, and anything else I believe worthy of sharing with the world.
-
-I currently work as a researcher for the [CNRS](http://www.cnrs.fr/), the French national research center, more specifically the [CAMS lab](http://cams.ehess.fr/). I currently live in Berlin, where I am graciously hosted by the [Marc Bloch Centre](http://www.cmb.hu-berlin.de/en/).
-
-## Current Projects
-
-### GraphBrain
+## GraphBrain
 
 <img src="{{ site.baseurl }}images/graphbrain.png" width="300px" align="left" style="margin-right:20px"/>
 
@@ -28,7 +18,7 @@ What makes GraphBrain a unique product offering however is the fact that it can 
 
 GraphBrain is fully integrated with the web, being able to store and understand knowledge about real-world entities (e.g. the city of Paris) and Internet entities represented by URLs.
 
-### Syntehtic
+## Syntehtic
 
 <img src="{{ site.baseurl }}images/synthetic.png" width="300px" align="left" style="margin-right:20px"/>
 
@@ -36,6 +26,22 @@ Synthetic is a scientific experimentation tool aimed at studying the genesis and
 
 Following a standard view in Complexity Science, networks are seen as the emergent outcome of the local, low-level interactions of autonomous agents. The idea of using a multi-agent simulation to model a complex network is not new, but it presents challenges to the human modeler. As simplifying assumptions are removed, or the target network becomes more complex, the discovery of the corresponding low-level mechanism becomes harder. Synthetic aims at aiding and, to a degree, automating this discovery process with evolutionary search.
 
-## Short Bio
+## LabLOVE
 
-I have been fascinated by computers from a young age and taught myself to program while in basic school. I have a PhD in Computer Science from the University of Coimbra, with a specialization in Artificial Intelligence. Before, I worked as a software engineer. I developed a software module as part of a larger project for NASA. Later I worked for a mobile search startup company in Cambridge, UK. During my PhD work, I developed a new type of agent controller, called the gridbrain, that allows for embedded evolution in the context of multi-agent simulations. Shortly after finishing my PhD, I moved to Paris, to work as a researcher for the CNRS. There I have been working in an inter-disciplinary environment, exploring ideas like artificial social scientists, digital humanities and knowledge hyper-graphs.
+<img src="{{ site.baseurl }}images/lablove.gif" width="300px" align="left" style="margin-right:20px"/>
+
+[Link to the project page](http://telmomenezes.com/lablove)
+
+This is a simulation tool I wrote during work in my PhD thesis.
+
+LabLOVE is an open source software platform for evolutionary multi-agent simulations. It allows for the definition of scenarios where populations of autonomous agents evolve through processes inspired in Darwinian evolution.
+
+LabLOVE is a scientific research tool with several fields of application, including the generation of artificial intelligence through evolution and biological and social simulations.
+
+## JFastEMD
+
+[Link to the project page (GitHub)](https://github.com/telmomenezes/JFastEMD)
+
+This is a pure Java implementation of the Fast Earth Mover's Algorithm by Ofir Pele and Michael Werman. In fact, it's a partial port of the C++ implementation that can be found here:
+
+[http://www.cs.huji.ac.il/~ofirpele/FastEMD/code/](http://www.cs.huji.ac.il/~ofirpele/FastEMD/code/)
