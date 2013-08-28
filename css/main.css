@@ -92,3 +92,12 @@ strong {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.figure {
+  float: left;
+  margin-right: 20px;
+}
+
+.caption {
+  font-size: 70%;
+}

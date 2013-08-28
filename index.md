@@ -3,7 +3,10 @@ layout: default
 title: Telmo Menezes
 ---
 
-<img src="{{ site.baseurl }}images/telmo.jpg" width="200px" align="left" style="margin-right:20px"/>
+<div class="figure">
+<img src="{{ site.baseurl }}images/telmo.jpg" width="200px" />
+<div class="caption">Photo by <a href="http://giselafrancisco.com">Gisela Francisco</a></div>
+</div>
 
 I am a Computer Scientist and Hacker, with a background and strong interest in Artificial Intelligence and Complex Systems. I also love to build cool stuff. I use this site as a repository of information about my projects, publications, and anything else I believe worthy of sharing with the world.
 
