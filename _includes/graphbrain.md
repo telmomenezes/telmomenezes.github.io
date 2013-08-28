@@ -1,11 +1,5 @@
 <img src="{{ site.baseurl }}images/graphbrain.png" width="300px" align="left" style="margin-right:20px"/>
 
-GraphBrain is a personalised, intelligent, user-friendly knowledge engine. It integrates both traditional (Google-style) search and question answering systems (e.g. Wolfram alpha, IBM's Watson), but goes beyond both. This ambitious project is a major step forward in terms of how people will interact with computers.
+This is an ongoing project that I startes with my friend [Chih-Chun Chen](http://abmcet.net/). It is now also part of my research activity in the context of the [Algopol project](http://algopol.fr/).
 
-Traditional search is based on names and terms, and relies on users already knowing the label for the thing they are searching for. This also means users miss out on highly relevant content that is closely related to a targeted search if they do not explicitly query for it. GraphBrain provides an alternative to this traditional paradigm by allowing users to search for and browse content based on semantic relationships. Users simply type in their query (as they would for a normal search), but in addition to the directly targeted results, content that is closely related semantically is also made available. This is similar to getting dynamically rendered Wikipedia articles about each of the candidates for the search term.
-
-In addition to search terms, the interface also handles queries and commands in natural language, e.g. “Show me all the films Nicole Kidman has starred in since 2000.”, “Which is the most expensive restaurant in London?”, “Buy this book on amazon.”, "Which books written by German authors have I read?".
-
-What makes GraphBrain a unique product offering however is the fact that it can mange both public and personal information. Users are free to add facts that are only relevant to them (e.g. "I met John Smith at the company meeting in Paris."). It can distinguish between knowledge that is only relevant (and should only be displayed) to a specific user or group and knowledge that is relevant to everybody. From the same interface, users can have access to and manage both spheres of knowledge.
-
-GraphBrain is fully integrated with the web, being able to store and understand knowledge about real-world entities (e.g. the city of Paris) and Internet entities represented by URLs.
+GraphBrain is a knowledge hyper-graph with a natural language processing interface. Another way to put it is that it is a complex database of facts that can understand human language, be it from web sources or direct user commands. It can remember and derive new relationships between things. It wants to be a new type of Artificial Intelligence. I will write more about this as the project develops.
