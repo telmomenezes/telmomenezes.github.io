@@ -10,7 +10,8 @@ html, body {
 body {
   color: #333;
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  background-image: url('/images/bright_squares.png');
+  font-family: 'Roboto', helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -50,8 +51,7 @@ strong {
 }
 
 .site {
-  font-family: 'Roboto', sans-serif;
-  font-size: 110%;
+  font-size: 100%;
   text-align: left;
   width: 800px;
   margin: 3em auto 2em auto;
@@ -86,3 +86,9 @@ strong {
   .site .menu a:hover {
     color: #FF0000;
   }
+
+.footer {
+  font-size: 70%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
