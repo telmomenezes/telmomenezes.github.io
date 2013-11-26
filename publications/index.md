@@ -1,0 +1,49 @@
+---
+layout: default
+title: Publications
+---
+
+
+My publications in peer reviewed journals and conferences.
+
+## Selected Publications
+
+* Telmo Menezes, Camille Roth, **Automatic Discovery of Agent Based Models: an Application to Social Anthropology**, _Advances in Complex Systems_ [accepted for publication]
+
+* Telmo Menezes, [Evolutionary Modeling of a Blog Network]({{ site.baseurl }}publications/evolutionary-modeling-of-a-blog-network), _in Proc. of the IEEE Congress on Evolutionary Computation, CEC 2011_, New Orleans, USA, June 2011
+
+* Telmo Menezes, Camille Roth, Jean-Philippe Cointet, [Precursors and Laggards: An Analysis of Semantic Temporal Relationships on a Blog Network]({{ site.baseurl }}publications/precursors-and-laggards), _Proc. of the IEEE International Conference on Social Computing, SocialCom10_, Minneapolis, USA, August 2010
+
+* Telmo Menezes, [Evolutionary Computational Intelligence for Multi-Agent Simulations]({{ site.baseurl }}phd), _Ph.D. Thesis_, University of Coimbra, 2009
+
+* Telmo Menezes, Ernesto Costa, [Artificial Brains as Networks of Computational Building Blocks]({{ site.baseurl }}publications/artificial-brains-as-networks-of-computational-building-blocks), _Proc. of the 5th European Conference on Complex Systems_, Jerusalem, Israel, September 2008
+
+## Other Publications
+
+* Telmo Menezes, Camille Roth, **Artiﬁcial Social Scientist: an Application to Marriage Networks**, _Proc. of the Interdisciplinary Workshop on Information and Decision in Social Networks (WIDS 2012)_, MIT, Cambrige, MA, USA, November 2012
+
+* Telmo Menezes, Camille Roth and Klaus Hamberger, **Finding Generators for Alliance Networks**, _Proc. of ESSA 2012 – 8th Conference of the European Social Simulation Association_, University of Salzburg, Austria, September 2012
+
+* Telmo Menezes, Camille Roth, Jean-Philippe Cointet, **Finding the Semantic-Level Precursors on a Blog Network**, _International Journal of Social Computing and Cyber-Physical Systems_
+
+* Telmo Menezes, **A process for mapping large directed networks to 2D images and its applications**, _Poster presentation at the European Conference on Complex Systems 2011_, University of Vienna, Austria, 2011
+
+* Telmo Menezes, Ernesto Costa, **Coevolution of Competing Agents Species in a Game-like Environment**, _Proc. of the 1st European Workshop on Bio-inspired Algorithms in Games_, EvoGAMES 2009, Tübigen, Germany, April 2009
+
+* Telmo Menezes, Ernesto Costa, **Modelling Evolvable Brains – An Heterogeneous Network Approach**, _International Journal of Information Technology and Intelligent Computing_, 2 : 2, January 2008
+
+* Telmo Menezes, Ernesto Costa, **Designing for Surprise**, _Proc. of the 9th European Conference on Artificial Life, ECAL 2007_, Lisbon, September 2007
+
+* Telmo Menezes, Ernesto Costa, **The Gridbrain: an Heterogeneous Network for Open Evolution in 3D Environments**, _Proc. of the The First IEEE Symposium on Artificial Life, The First IEEE Symposium on Artificial Life_, Honolulu, USA, April 2007
+
+* Telmo Menezes, Ernesto Costa, **A First Order Language to Coevolve Agents in Complex Social Simulations**, _Proc. of the European Conference on Complex Systems 2006_, University of Oxford, September 2006
+
+* Tiago Baptista, Telmo Menezes, Ernesto Costa, **BitBang: A Model and Framework for Complexity Research**, _Proc. of the European Conference on Complex Systems 2006_, Oxford, United Kingdom, September 2006
+
+* Telmo Menezes, Tiago Baptista, Ernesto Costa, **Towards the Generation of Complex Game Worlds**, _Proc. of the IEEE Symposium on Computational Intelligence and Games (CIG’06)_, Reno/Lake Tahoe, USA, May 2006
+
+* Telmo Menezes, Diamantino Costa, Miguel Tavares, **On the Extension of Xception to Support Software Fault Models**, _Proc. of the International Symposium on Software Reliability Engineering (ISSRE2000)_, San Jose, USA, October, 2000
+
+* Telmo Menezes, João Carreira, **Experiment Management for the Xception Fault Injection Technology**, _Proc. of the International Symposium on Software Reliability Engineering (ISSRE’99)_, Boca Raton, USA, November 1999
+
+* Hernâni Pedroso, Luís M. Silva, Víctor Batista, Paulo Martins, Guilherme Soares, Telmo Menezes, **Parallel Computing over the Internet with Java**, _Proc. of the 3rd International Meeting on Vector and Parallel Processing (VECPAR’98)_, Oporto, Portugal, June 1998
