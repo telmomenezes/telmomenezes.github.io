@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Roth | Telmo Menezes</title>
+    <link>/authors/camille-roth/</link>
+      <atom:link href="/authors/camille-roth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camille Roth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Camille Roth</title>
+      <link>/authors/camille-roth/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Discovery of Families of Network Generative Processes</title>
+      <link>/publication/menezes-2017-automatic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2017-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural scales in geographical patterns</title>
+      <link>/publication/menezes-2017-natural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2017-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New simulation techniques in kinship network analysis</title>
+      <link>/publication/menezes-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic regression of generative network models</title>
+      <link>/publication/menezes-2014-symbolic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2014-symbolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic discovery of agent based models: An application to social anthropology</title>
+      <link>/publication/menezes-2013-automatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2013-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the semantic-level precursors on a blog network</title>
+      <link>/publication/menezes-2011-finding/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2011-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precursors and laggards: an analysis of semantic temporal relationships on a blog network</title>
+      <link>/publication/menezes-2010-precursors/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2010-precursors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

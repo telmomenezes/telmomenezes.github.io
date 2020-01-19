@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Telmo Menezes</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Discovery of Families of Network Generative Processes</title>
+      <link>/publication/menezes-2017-automatic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2017-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural scales in geographical patterns</title>
+      <link>/publication/menezes-2017-natural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2017-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New simulation techniques in kinship network analysis</title>
+      <link>/publication/menezes-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Evolutionary Superintelligences Do Nothing, Eventually</title>
+      <link>/publication/menezes-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic regression of generative network models</title>
+      <link>/publication/menezes-2014-symbolic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2014-symbolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic discovery of agent based models: An application to social anthropology</title>
+      <link>/publication/menezes-2013-automatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2013-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary modeling of a blog network</title>
+      <link>/publication/menezes-2011-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2011-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the semantic-level precursors on a blog network</title>
+      <link>/publication/menezes-2011-finding/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2011-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precursors and laggards: an analysis of semantic temporal relationships on a blog network</title>
+      <link>/publication/menezes-2010-precursors/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2010-precursors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coevolution of Competing Agent Species in a Game-Like Environment</title>
+      <link>/publication/menezes-2009-coevolution/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2009-coevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computational intelligence for multi-agent simulations</title>
+      <link>/publication/menezes-2009-evolutionary/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2009-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial brains as networks of computational building blocks</title>
+      <link>/publication/menezes-2008-artificial/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2008-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling evolvable brains-an heterogeneous network approach</title>
+      <link>/publication/menezes-2008-modeling/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2008-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing for surprise</title>
+      <link>/publication/menezes-2007-designing/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2007-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The gridbrain: an heterogeneous network for open evolution in 3d environments</title>
+      <link>/publication/menezes-2007-gridbrain/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2007-gridbrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A first order language to coevolve agents in complex social simulations</title>
+      <link>/publication/menezes-2006-first/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2006-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitBang-a Library for Modern Game AI</title>
+      <link>/publication/menezes-2006-bitbang/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2006-bitbang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitbang: A model and framework for complexity research</title>
+      <link>/publication/baptista-2006-bitbang/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/baptista-2006-bitbang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards generation of complex game worlds</title>
+      <link>/publication/menezes-2006-towards/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2006-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Extension of Xception to Support Software Fault Models</title>
+      <link>/publication/menezes-2000-extension/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2000-extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xception: Professional Fault Injection</title>
+      <link>/publication/costa-1999-xception/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-1999-xception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

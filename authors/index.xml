@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Telmo Menezes</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Camille Roth</title>
+      <link>/authors/camille-roth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/camille-roth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telmo Menezes</title>
+      <link>/authors/telmo-menezes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/telmo-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floriana Gargiulo</title>
+      <link>/authors/floriana-gargiulo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/floriana-gargiulo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Hamberger</title>
+      <link>/authors/klaus-hamberger/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/klaus-hamberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Philippe Cointet</title>
+      <link>/authors/jean-philippe-cointet/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-philippe-cointet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernesto Costa</title>
+      <link>/authors/ernesto-costa/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/ernesto-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telmo de Lucena Torres de Menezes</title>
+      <link>/authors/telmo-de-lucena-torres-de-menezes/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/telmo-de-lucena-torres-de-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Costa</title>
+      <link>/authors/e-costa/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/e-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Menezes</title>
+      <link>/authors/t-menezes/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/t-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernesto JF Costa</title>
+      <link>/authors/ernesto-jf-costa/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/ernesto-jf-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Baptista</title>
+      <link>/authors/t-baptista/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/t-baptista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telmo LT Menezes</title>
+      <link>/authors/telmo-lt-menezes/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/telmo-lt-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Baptista</title>
+      <link>/authors/tiago-baptista/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/tiago-baptista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago R Baptista</title>
+      <link>/authors/tiago-r-baptista/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/tiago-r-baptista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diamantino Costa</title>
+      <link>/authors/diamantino-costa/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/authors/diamantino-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Tavares</title>
+      <link>/authors/miguel-tavares/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/authors/miguel-tavares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Carreira</title>
+      <link>/authors/joao-carreira/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/joao-carreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Cunha</title>
+      <link>/authors/joao-cunha/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/joao-cunha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an academic researcher in the fields of Computational Social Sciences, Artificial Intelligence and Complex Systems, working at the Marc Bloch Centre in Berlin. I have a PhD in Computer Science with a specialization in Artificial Intelligence and a background of interdisciplinary research.&lt;/p&gt;
+
+&lt;p&gt;I also have industry experience, which includes working in machine learning at one of the major tech companies and developing software for NASA/JPL.&lt;/p&gt;
+
+&lt;p&gt;I see computer science as a real science, and computations as a fundamental aspect of nature, permeating it at many level, from particle physics to sociology. I am particularly interested in the study of social dynamics under this light, especially the new global social phenomena introduced by the Internet: how they create and changes the belief landscapes and cognitive spaces in which we operate.&lt;/p&gt;
+
+&lt;p&gt;I like abstractions but I also very much like pratical “hands-on” empirical science. I love creating tools that (hopefully) allow us to observe things under a new light.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

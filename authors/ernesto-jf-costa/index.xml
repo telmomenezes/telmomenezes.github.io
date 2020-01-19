@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernesto JF Costa | Telmo Menezes</title>
+    <link>/authors/ernesto-jf-costa/</link>
+      <atom:link href="/authors/ernesto-jf-costa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ernesto JF Costa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ernesto JF Costa</title>
+      <link>/authors/ernesto-jf-costa/</link>
+    </image>
+    
+    <item>
+      <title>Towards generation of complex game worlds</title>
+      <link>/publication/menezes-2006-towards/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2006-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

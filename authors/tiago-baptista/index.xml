@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiago Baptista | Telmo Menezes</title>
+    <link>/authors/tiago-baptista/</link>
+      <atom:link href="/authors/tiago-baptista/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiago Baptista</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tiago Baptista</title>
+      <link>/authors/tiago-baptista/</link>
+    </image>
+    
+    <item>
+      <title>Bitbang: A model and framework for complexity research</title>
+      <link>/publication/baptista-2006-bitbang/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/baptista-2006-bitbang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

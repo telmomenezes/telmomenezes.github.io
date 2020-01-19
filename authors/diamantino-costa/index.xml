@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diamantino Costa | Telmo Menezes</title>
+    <link>/authors/diamantino-costa/</link>
+      <atom:link href="/authors/diamantino-costa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diamantino Costa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Diamantino Costa</title>
+      <link>/authors/diamantino-costa/</link>
+    </image>
+    
+    <item>
+      <title>On the Extension of Xception to Support Software Fault Models</title>
+      <link>/publication/menezes-2000-extension/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2000-extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xception: Professional Fault Injection</title>
+      <link>/publication/costa-1999-xception/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-1999-xception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

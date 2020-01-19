@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Philippe Cointet | Telmo Menezes</title>
+    <link>/authors/jean-philippe-cointet/</link>
+      <atom:link href="/authors/jean-philippe-cointet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Philippe Cointet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jean-Philippe Cointet</title>
+      <link>/authors/jean-philippe-cointet/</link>
+    </image>
+    
+    <item>
+      <title>Finding the semantic-level precursors on a blog network</title>
+      <link>/publication/menezes-2011-finding/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2011-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precursors and laggards: an analysis of semantic temporal relationships on a blog network</title>
+      <link>/publication/menezes-2010-precursors/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2010-precursors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telmo de Lucena Torres de Menezes | Telmo Menezes</title>
+    <link>/authors/telmo-de-lucena-torres-de-menezes/</link>
+      <atom:link href="/authors/telmo-de-lucena-torres-de-menezes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Telmo de Lucena Torres de Menezes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Telmo de Lucena Torres de Menezes</title>
+      <link>/authors/telmo-de-lucena-torres-de-menezes/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary computational intelligence for multi-agent simulations</title>
+      <link>/publication/menezes-2009-evolutionary/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2009-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

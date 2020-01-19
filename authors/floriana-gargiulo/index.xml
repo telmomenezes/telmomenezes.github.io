@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floriana Gargiulo | Telmo Menezes</title>
+    <link>/authors/floriana-gargiulo/</link>
+      <atom:link href="/authors/floriana-gargiulo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Floriana Gargiulo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Floriana Gargiulo</title>
+      <link>/authors/floriana-gargiulo/</link>
+    </image>
+    
+    <item>
+      <title>New simulation techniques in kinship network analysis</title>
+      <link>/publication/menezes-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2016-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Telmo Menezes</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2017 19:14:41 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Hypergraphs</title>
+      <link>/post/knowledge-hypergraphs/</link>
+      <pubDate>Fri, 22 Dec 2017 19:14:41 +0100</pubDate>
+      <guid>/post/knowledge-hypergraphs/</guid>
+      <description>&lt;p&gt;Hypergraphs are a generalization of graphs (mathematical objects that represent networks), that allow for the representation of complex information structures, namely human knowledge and natural language communication. By employing modern Natural Language Processing techniques and general knowledge ontologies and databases, it becomes possible to transform free-form text into formal structures that are convenient both for AI and Social Sciences research.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://graphbrain.net&#34; target=&#34;_blank&#34;&gt;Graphbrain&lt;/a&gt; open-source research tool is being developed with the aim of both aiding in the research project, and making the techniques available to the scientific community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scales of Human Movement</title>
+      <link>/post/scales-of-human-movement/</link>
+      <pubDate>Tue, 04 Apr 2017 19:20:17 +0100</pubDate>
+      <guid>/post/scales-of-human-movement/</guid>
+      <description>&lt;p&gt;Human mobility is known to be distributed across several orders of magnitude of physical distances, which makes it difficult to find or define typical and meaningful scales. Relying on geotagged data collected from photo-sharing social media, we apply community detection to movement networks constrained by increasing percentiles of the distance distribution. We discover clear phase transitions in the community partition space. This is the first known method of identifying natural scales of human movement. The partitions of the natural scales allow us to draw discrete multi-scale geographical boundaries, potentially capable of providing key insights in fields such as epidemiology or cultural contagion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Evolutionary Computation to Explain Network Growth</title>
+      <link>/post/using-evolutionary-computation-to-explain-network-growth/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/post/using-evolutionary-computation-to-explain-network-growth/</guid>
+      <description>
+
+&lt;p&gt;Our article titled &lt;a href=&#34;http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Symbolic regression of generative network models&amp;rdquo;&lt;/a&gt; has finally been published. I am really happy with the final result and the fact that it is open access.&lt;/p&gt;
+
+&lt;p&gt;Explaining network growth is a challenge that appears in a surprising number of disciplines. For example, neuroscientists are interested in understanding how brains develop, and sociologists in how social networks acquire a certain topology.&lt;/p&gt;
+
+&lt;p&gt;Finding plausible explanations is not trivial. Real networks tend to be large and complex. Reverse-engineering the growth process from a snapshot of a network is a problem that easily defeats human intuition.&lt;/p&gt;
+
+&lt;p&gt;So we developed a method to look for such explanations automatically. We employ evolutionary computation, a machine learning technique inspired by natural selection. Network growth processes (a.k.a. network generators) are represented by simple computer programs. In other words, using only the snapshot of a given network, our method automatically discovers simple laws plausibly governing its evolution. For instance, from an empirical political blog network (see below) we find an equation as simple as exp(4−2d).&lt;/p&gt;
+
+&lt;p&gt;This suggests that a generative process giving exponential priority to closer nodes is able to successfully reconstruct many key features of the original network.&lt;/p&gt;
+
+&lt;p&gt;The evolutionary process evaluates the quality of generators by creating synthetic networks according to the growth process they define and then comparing these synthetic networks to the target, real network. The comparison is done using a set of well-known metrics that target both macro and micro-level features of the networks.&lt;/p&gt;
+
+&lt;p&gt;The best way to understand the method is, of course, to &lt;a href=&#34;http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html&#34; target=&#34;_blank&#34;&gt;read the paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are also releasing an &lt;a href=&#34;https://github.com/telmomenezes/synthetic&#34; target=&#34;_blank&#34;&gt;open-source software tool called &lt;em&gt;Synthetic&lt;/em&gt;&lt;/a&gt; that any researcher can apply to their own networks. If you are interested, don’t hesitate to contact us. We would love to hear from any attempts (successful or not) at using &lt;em&gt;Synthetic&lt;/em&gt; outside of our lab.&lt;/p&gt;
+
+&lt;p&gt;To illustrate what can be achieved, I leave you with seven generators we discovered. They cover very different types of networks, including a simple brain, protein interactions and social networks. The following table describes the variables used in the expressions:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;variables.png&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Generator variables
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;The expressions that define the generators use these variables to assign weights to the pairs of unconnected nodes in the network. The higher the weight, the more likely it is that the generator will establish a connection between the nodes.&lt;/p&gt;
+
+&lt;p&gt;A simple example: consider a &lt;em&gt;&amp;ldquo;rich get richer&amp;rdquo;&lt;/em&gt; phenomena. The more incoming connection a node has, the more likely it is to receive more connections. Such a generator could be defined as:&lt;/p&gt;
+
+&lt;p&gt;$$w(i,j)=k(j)$$&lt;/p&gt;
+
+&lt;p&gt;The following examples are roughly ordered by increasing complexity of the generator.&lt;/p&gt;
+
+&lt;h2 id=&#34;political-blogs&#34;&gt;Political Blogs&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Citation network of political blogs during the 2004 American presidential elections&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;political.png&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Political bloggers
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i, j) = exp(4 – 2d)$$&lt;/p&gt;
+
+&lt;p&gt;The political blogs generator takes a single variable: $d$. Unlike with $d_D$, the case where d=1 can happen, as this distance may be caused by an arc with the opposite direction of the one being proposed. This generator behaviour can be simply described, as shown in the following figure:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;political_graph.png&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Political bloggers
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Reciprocity is strongly encouraged, given the high weight given to arcs with $d=1$.&lt;/p&gt;
+
+&lt;p&gt;In fact, this situation necessarily corresponds to a reciprocal arc (linking to a blog that linked to you), because arcs that already exist are not allowed in the sample. Then, weight decreases as undirected distance increases, but never to 0. This distribution of weights according to undirected distances is sufficient to generate the two communities in the network — links between blogs that have a low undirected distance are more probable, but links to more distant blogs are also possible. This leads to the low density of links between the two communities. Surprisingly, it is possible to propose a plausible generator that leads to the two communities without resorting to &lt;em&gt;a priori&lt;/em&gt; diversity (e.g Democrats vs. Republicans), that could be expressed with sequential identifiers or the affinity function. It can be speculated that this matches the way in which political ideology propagates in society.&lt;/p&gt;
+
+&lt;h2 id=&#34;word-adjacencies&#34;&gt;Word Adjacencies&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Network of word adjacencies in the novel &lt;em&gt;David Copperfield&lt;/em&gt; by Charles Dickens&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;800px-Power_of_Words_by_Antonio_Litterio.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Photo by Antonio Litterio licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i, j) = k(i) – d$$&lt;/p&gt;
+
+&lt;p&gt;This network represents the adjacencies of common adjectives and nouns in the novel &amp;ldquo;David Copperfield&amp;rdquo; by Charles Dickens.&lt;/p&gt;
+
+&lt;p&gt;The generator configures a simple combination of preferential attachment with a preference for connecting to close vertices. An increase in the degree of a node also increases its reach, as the distance term can be higher with making the weight negative, and thus null.&lt;/p&gt;
+
+&lt;h2 id=&#34;facebook&#34;&gt;Facebook&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Neighbourhood of a single Facebook user&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;$$w(i, j) = \psi(3, i \cdot k(i), k(i))$$&lt;/p&gt;
+
+&lt;p&gt;The facebook generator combines preferential attachment with affinity in a simple fashion. The constant value for the number of groups suggests pre-existing social circles.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;affinity:&lt;/strong&gt; $i \cdot k(i)$&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;no affinity:&lt;/strong&gt; $k(i)$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The role of the factor $i$ in case of affinity appears to be two-fold: increase the propensity for connections inside pre-existing social circles (for the most cases $i &amp;gt; 1$) and capture an external preference for certain connections within such groups over others. This matches the intuition that popularity in the real world is expressed in the facebook social graph.&lt;/p&gt;
+
+&lt;p&gt;Connections between groups follow a pure preferential attachment regime, matching the intuition that more popular individuals are more likely to act as bridges between communities.&lt;/p&gt;
+
+&lt;h2 id=&#34;c-elegans&#34;&gt;C. Elegans&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Brain of a &lt;em&gt;C. Elegans&lt;/em&gt; roundworm&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;CrawlingCelegans.gif&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Crawling C. elegans (CC BY-SA 3.0 Bob Goldstein &lt;a href=&#34;http://labs.bio.unc.edu/Goldstein/movies.html&#34; target=&#34;_blank&#34;&gt;http://labs.bio.unc.edu/Goldstein/movies.html&lt;/a&gt;)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i, j) = log(d_D)d_D – 7 – min(j + 0.52, 0.77)$$&lt;/p&gt;
+
+&lt;p&gt;The C.elegans generator uses two variables: $d_D$ and $j$. Given the term where $j$ appears, $min(j + 0.52, 0.77)$, a distinction is only made between $j = 0$ and $j &amp;gt; 0$. For the first case, the term takes the value $0.52$, for the second the value $0.77$. The first term uses the $d_D$ variable, which takes integer values in ${0, &amp;hellip;, 5}$. Only values equal to or greater than $2$ are relevant, given that $d_D = 0$ configures a self-link, while $d_D = 1$ indicates an already existing arc. Both these situations are prohibited in the configuration we use.&lt;/p&gt;
+
+&lt;p&gt;As negative values are considered null weights, we can reduce the generator to $3$ possible situations, shown in the following table:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;celegans_table.png&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Weights table for C.elegans generator.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Here we can see that the rule is indeed very simple: the generator promotes the creation of A→B arcs where an A→C→B arc already exists ($d_D = 2$). For the special case of an arc where the target has the sequential identifier $0$, $d_D = 3$ is also allowed, albeit with a much lower probability. For $d_D = 2$, connection to this special node are also slightly preferred.&lt;/p&gt;
+
+&lt;p&gt;Sequential identifiers are abstractions meant to capture some &lt;em&gt;a priori&lt;/em&gt; heterogeneity in the vertex set, so the meaning of the special node 0 can only be speculated on. It might represent a certain spatial constraint for a neuron or a different behaviour of the neuron through some mechanism. Such interpretations are beyond the scope of the work and better left to researchers with the adequate domain knowledge.&lt;/p&gt;
+
+&lt;h2 id=&#34;proteins&#34;&gt;Proteins&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;A network of protein interactions in Homo Sapiens&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;proteins.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Copyright by BASF. Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i,j)=⎧⎨⎩log(i),if k(j)={0,if k(i) &amp;lt; 4k(i),otherwise−1,otherwise$$&lt;/p&gt;
+
+&lt;p&gt;The protein interactions generator only assigns a non-null weight in two cases: if the target is not yet connected and the origin has a low degree ($k(i) &amp;lt; 4$), or if the degree of the origin and target are the same. Non-null weights are always $log(i)$, indicating an &lt;em&gt;a priori&lt;/em&gt; logarithmically distributed propensity for interaction.&lt;/p&gt;
+
+&lt;p&gt;This generative process seems to indicate a strong preference for assortativity on degree, establishing edges between proteins that interact with a similar number of other proteins.&lt;/p&gt;
+
+&lt;h2 id=&#34;software-collaborations&#34;&gt;Software Collaborations&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaboration network of authors from the CPAN Perl module repository&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;software.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Photo by Marko Puusaar ( licensed under the Creative Commons Attribution-Share Alike 3.0 Unported)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i,j)=\psi(k&amp;rsquo;(i)d,k&amp;rsquo;(j),0.7k(j))⋅min(k(j),9)$$&lt;/p&gt;
+
+&lt;p&gt;The software collaborations network represents software authors from the CPAN Perl language repository. An arc means then an author uses a software module from another author.&lt;/p&gt;
+
+&lt;p&gt;Here we can see that the affinity operator is used. The first parameter of the operator represents the number of groups that the vertex set is divided into, so the higher this value, the less likely affinity between to arbitrary vertices becomes. The number of groups is rounded to the closest integer.&lt;/p&gt;
+
+&lt;p&gt;As the number of groups is determined by k′(i)d, an increase in the out-degree of the origin makes affinity less likely and an increase in undirected distance makes it more likely. The expression can be divided into two branches:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;affinity:&lt;/strong&gt; $k&amp;rsquo;(j)⋅min(k(j),9)$&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;no affinity:&lt;/strong&gt; $0.7k(j)⋅min(k(j),9)$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both branches represent a form of preferential attachment. The first one uses a combination of the in- and out-degree of the target, while the second only considers the in-degree.&lt;/p&gt;
+
+&lt;p&gt;A plausible interpretation is that the generator proposes two modes of discovery: by proximity in the network or by problem domain affinity. Affinity is more likely when the origin is still an outsider to the environment (low number of dependencies on other authors’ work) or when the topological distance is high — maybe an existing author expanding to a new problem domain. When module discovery is by proximity, the only thing that is taken into account is the number of authors that already depend on the work of the target — its popularity for a certain problem domain. When it is by affinity, the number of authors that it depends on also factors in. This could represent a measure of integrative power — how much the work of a certain author encapsulates existing solutions in a higher abstraction, providing a more useful entry point for a newcomer to its domain.&lt;/p&gt;
+
+&lt;h2 id=&#34;power-grid&#34;&gt;Power Grid&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Power grid of the Western States of the USA&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;power.jpg&#34; alt=&#34;&#34; &gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Photo by Guy Erwood and licensed for reuse under this Creative Commons Licence.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;$$w(i,j)=\psi(dd \ cdot {i – 1, if k(j)=0k(i), otherwise, 1, 0)$$&lt;/p&gt;
+
+&lt;p&gt;The power grid generator also uses the affinity generator, but in a more binary fashion: the weight is always 1 if there is affinity and null if there is not. All the complexity of the generator is captured by the decision on the number of affinity groups. The following things can be noted about the expression that determines the number of groups:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overall, the probability of affinity decreases exponentially with distance.&lt;/li&gt;
+&lt;li&gt;The node with the sequential identifier 1 overrides the previous rule if the target has no connections, by making the exponent null. This configures a central hub for newcomers to connect to.&lt;/li&gt;
+&lt;li&gt;An origin with no connections overrides the previous rule if the target is already connected, also by making the exponent null.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This configures a branching growth behaviour, where new vertices either connect to a central hub or some already connected vertex, but connections between already connected or distant vertices are discouraged. The tree-like structure that originates from this matches our intuitions about the growth of a power grid. The affinity operator, by implicitly using sequence identifiers, might abstract at a high level the underlying spatial constraints.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multi-Agent Simulations</title>
+      <link>/post/evolutionary-multi-agent-simulations/</link>
+      <pubDate>Tue, 12 Jul 2011 19:24:20 +0100</pubDate>
+      <guid>/post/evolutionary-multi-agent-simulations/</guid>
+      <description>&lt;p&gt;Advances in fields such as Complexity Science and Artificial Life enable a modern direction in Computational Intelligence research. Instead of building isolated artificial intelligence systems from the top-down, this approach attempts to design systems where a population of agents and the environment interact and adaptation processes take place.&lt;/p&gt;
+
+&lt;p&gt;We created a novel artificial brain model, called gridbrain, as well as an evolutionary environment embedded in a simulation. The gridbrain model defines agent brains as heterogeneous networks of computational building blocks. A multi-layer approach allows gridbrains to process variable-sized information from several sensory channels. Computational building blocks allow for the use of base functionalities close to the underlying architecture of the digital computer. Evolutionary operators were devised to permit the adpative complexification of gridbrains.&lt;/p&gt;
+
+&lt;p&gt;In experimental scenarios that require cooperation, we demonstrate the emergence of synchronization behaviors that would be difficult to achieve under conventional approaches. Kin selection and group selection strategies compared. In a scenario where two species are in competition, we demonstrated the emergence of specialization niches without the need for geographical isolation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Telmo Menezes</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Discovery of Families of Network Generative Processes</title>
+      <link>/talk/automatic-discovery-of-families-of-network-generative-processes/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/automatic-discovery-of-families-of-network-generative-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media, Networks and Geographical Data</title>
+      <link>/talk/social_media-networks-geographical_data-georgia/</link>
+      <pubDate>Sun, 24 Nov 2019 19:56:00 +0100</pubDate>
+      <guid>/talk/social_media-networks-geographical_data-georgia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

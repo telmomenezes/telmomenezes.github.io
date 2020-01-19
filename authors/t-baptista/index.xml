@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Baptista | Telmo Menezes</title>
+    <link>/authors/t-baptista/</link>
+      <atom:link href="/authors/t-baptista/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Baptista</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T Baptista</title>
+      <link>/authors/t-baptista/</link>
+    </image>
+    
+    <item>
+      <title>BitBang-a Library for Modern Game AI</title>
+      <link>/publication/menezes-2006-bitbang/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2006-bitbang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
