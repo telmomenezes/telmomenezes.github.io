@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolutionary Computation | Telmo Menezes</title>
+    <link>/tags/evolutionary-computation/</link>
+      <atom:link href="/tags/evolutionary-computation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolutionary Computation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Evolutionary Computation</title>
+      <link>/tags/evolutionary-computation/</link>
+    </image>
+    
+    <item>
+      <title>Symbolic regression of generative network models</title>
+      <link>/publication/menezes-2014-symbolic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2014-symbolic/</guid>
+      <description>&lt;p&gt;The article can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/srep06284&#34; target=&#34;_blank&#34;&gt;https://www.nature.com/articles/srep06284&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scales | Telmo Menezes</title>
+    <link>/tags/scales/</link>
+      <atom:link href="/tags/scales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scales</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Scales</title>
+      <link>/tags/scales/</link>
+    </image>
+    
+    <item>
+      <title>Natural scales in geographical patterns</title>
+      <link>/publication/menezes-2017-natural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2017-natural/</guid>
+      <description>&lt;p&gt;The article can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/srep45823&#34; target=&#34;_blank&#34;&gt;https://www.nature.com/articles/srep45823&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

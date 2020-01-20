@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprint | Telmo Menezes</title>
+    <link>/categories/preprint/</link>
+      <atom:link href="/categories/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preprint</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Preprint</title>
+      <link>/categories/preprint/</link>
+    </image>
+    
+    <item>
+      <title>Tubes &amp; Bubbles -- Topological confinement of YouTube recommendations</title>
+      <link>/publication/roth-2020-tubes/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roth-2020-tubes/</guid>
+      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05324&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2001.05324&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Hypergraphs</title>
+      <link>/publication/menezes-2019-semantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2019-semantic/</guid>
+      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1908.10784&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1908.10784&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,34 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Tubes &amp; Bubbles -- Topological confinement of YouTube recommendations</title>
+      <link>/publication/roth-2020-tubes/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roth-2020-tubes/</guid>
+      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05324&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2001.05324&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Hypergraphs</title>
+      <link>/publication/menezes-2019-semantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/menezes-2019-semantic/</guid>
+      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1908.10784&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1908.10784&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automatic Discovery of Families of Network Generative Processes</title>
@@ -25,7 +47,10 @@
       <link>/publication/menezes-2017-natural/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/menezes-2017-natural/</guid>
-      <description></description>
+      <description>&lt;p&gt;The article can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/srep45823&#34; target=&#34;_blank&#34;&gt;https://www.nature.com/articles/srep45823&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +74,10 @@
       <link>/publication/menezes-2014-symbolic/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/menezes-2014-symbolic/</guid>
-      <description></description>
+      <description>&lt;p&gt;The article can be accessed here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/srep06284&#34; target=&#34;_blank&#34;&gt;https://www.nature.com/articles/srep06284&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

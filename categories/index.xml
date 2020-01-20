@@ -5,12 +5,36 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
       <link>/categories/</link>
     </image>
+    
+    <item>
+      <title>Preprint</title>
+      <link>/categories/preprint/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Under Review</title>
+      <link>/categories/under-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/under-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Access</title>
+      <link>/categories/open-access/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/categories/open-access/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
