@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.1">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
 
@@ -45,6 +45,12 @@
   
   
   
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
@@ -68,6 +74,118 @@
 
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -95,11 +213,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/post/using-evolutionary-computation-to-explain-network-growth/">
 
+  
   
   
   
@@ -168,7 +287,7 @@
     "name": "Telmo Menezes",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/icon-512.png"
+      "url": "img//"
     }
   },
   "description": "Explaining network growth is a challenge that appears in a surprising number of disciplines. For example, neuroscientists are interested in understanding how brains develop, and sociologists in how social networks acquire a certain topology. Finding plausible explanations is not trivial. Real networks tend to be large and complex. Reverse-engineering the growth process from a snapshot of a network is a problem that easily defeats human intuition. So we developed a method to look for such explanations automatically. We employ evolutionary computation, a machine learning technique inspired by natural selection. Network growth processes (a.k.a. network generators) are represented by simple computer programs. In other words, using only the snapshot of a given network, our method automatically discovers simple laws plausibly governing its evolution."
@@ -228,13 +347,20 @@
 
 
   
+
+
+
+
+
+
+
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-    
-    
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Telmo Menezes</a>
+    </div>
     
 
     
@@ -242,6 +368,12 @@
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Telmo Menezes</a>
+    </div>
     
 
     
@@ -521,24 +653,20 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<p>Our article titled <a href="http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html" target="_blank">&ldquo;Symbolic regression of generative network models&rdquo;</a> has finally been published. I am really happy with the final result and the fact that it is open access.</p>
-
+      <p>Our article titled 
+<a href="http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html" target="_blank" rel="noopener">&ldquo;Symbolic regression of generative network models&rdquo;</a>
+ has finally been published. I am really happy with the final result and the fact that it is open access.</p>
 <p>Explaining network growth is a challenge that appears in a surprising number of disciplines. For example, neuroscientists are interested in understanding how brains develop, and sociologists in how social networks acquire a certain topology.</p>
-
 <p>Finding plausible explanations is not trivial. Real networks tend to be large and complex. Reverse-engineering the growth process from a snapshot of a network is a problem that easily defeats human intuition.</p>
-
 <p>So we developed a method to look for such explanations automatically. We employ evolutionary computation, a machine learning technique inspired by natural selection. Network growth processes (a.k.a. network generators) are represented by simple computer programs. In other words, using only the snapshot of a given network, our method automatically discovers simple laws plausibly governing its evolution. For instance, from an empirical political blog network (see below) we find an equation as simple as exp(4−2d).</p>
-
 <p>This suggests that a generative process giving exponential priority to closer nodes is able to successfully reconstruct many key features of the original network.</p>
-
 <p>The evolutionary process evaluates the quality of generators by creating synthetic networks according to the growth process they define and then comparing these synthetic networks to the target, real network. The comparison is done using a set of well-known metrics that target both macro and micro-level features of the networks.</p>
-
-<p>The best way to understand the method is, of course, to <a href="http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html" target="_blank">read the paper</a>.</p>
-
-<p>We are also releasing an <a href="https://github.com/telmomenezes/synthetic" target="_blank">open-source software tool called <em>Synthetic</em></a> that any researcher can apply to their own networks. If you are interested, don’t hesitate to contact us. We would love to hear from any attempts (successful or not) at using <em>Synthetic</em> outside of our lab.</p>
-
+<p>The best way to understand the method is, of course, to 
+<a href="http://www.nature.com/srep/2014/140905/srep06284/full/srep06284.html" target="_blank" rel="noopener">read the paper</a>
+.</p>
+<p>We are also releasing an 
+<a href="https://github.com/telmomenezes/synthetic" target="_blank" rel="noopener">open-source software tool called <em>Synthetic</em></a>
+ that any researcher can apply to their own networks. If you are interested, don’t hesitate to contact us. We would love to hear from any attempts (successful or not) at using <em>Synthetic</em> outside of our lab.</p>
 <p>To illustrate what can be achieved, I leave you with seven generators we discovered. They cover very different types of networks, including a simple brain, protein interactions and social networks. The following table describes the variables used in the expressions:</p>
 
 
@@ -553,10 +681,9 @@
 
 
 
-
 <figure>
 
-<img src="variables.png" alt="" >
+<img data-src="variables.png" class="lazyload" alt="" >
 
 
   
@@ -568,17 +695,11 @@
 
 </figure>
 
-
 <p>The expressions that define the generators use these variables to assign weights to the pairs of unconnected nodes in the network. The higher the weight, the more likely it is that the generator will establish a connection between the nodes.</p>
-
 <p>A simple example: consider a <em>&ldquo;rich get richer&rdquo;</em> phenomena. The more incoming connection a node has, the more likely it is to receive more connections. Such a generator could be defined as:</p>
-
 <p>$$w(i,j)=k(j)$$</p>
-
 <p>The following examples are roughly ordered by increasing complexity of the generator.</p>
-
 <h2 id="political-blogs">Political Blogs</h2>
-
 <p><strong>Citation network of political blogs during the 2004 American presidential elections</strong></p>
 
 
@@ -593,10 +714,9 @@
 
 
 
-
 <figure>
 
-<img src="political.png" alt="" >
+<img data-src="political.png" class="lazyload" alt="" >
 
 
   
@@ -608,9 +728,7 @@
 
 </figure>
 
-
 <p>$$w(i, j) = exp(4 – 2d)$$</p>
-
 <p>The political blogs generator takes a single variable: $d$. Unlike with $d_D$, the case where d=1 can happen, as this distance may be caused by an arc with the opposite direction of the one being proposed. This generator behaviour can be simply described, as shown in the following figure:</p>
 
 
@@ -625,10 +743,9 @@
 
 
 
-
 <figure>
 
-<img src="political_graph.png" alt="" >
+<img data-src="political_graph.png" class="lazyload" alt="" >
 
 
   
@@ -640,13 +757,9 @@
 
 </figure>
 
-
 <p>Reciprocity is strongly encouraged, given the high weight given to arcs with $d=1$.</p>
-
 <p>In fact, this situation necessarily corresponds to a reciprocal arc (linking to a blog that linked to you), because arcs that already exist are not allowed in the sample. Then, weight decreases as undirected distance increases, but never to 0. This distribution of weights according to undirected distances is sufficient to generate the two communities in the network — links between blogs that have a low undirected distance are more probable, but links to more distant blogs are also possible. This leads to the low density of links between the two communities. Surprisingly, it is possible to propose a plausible generator that leads to the two communities without resorting to <em>a priori</em> diversity (e.g Democrats vs. Republicans), that could be expressed with sequential identifiers or the affinity function. It can be speculated that this matches the way in which political ideology propagates in society.</p>
-
 <h2 id="word-adjacencies">Word Adjacencies</h2>
-
 <p><strong>Network of word adjacencies in the novel <em>David Copperfield</em> by Charles Dickens</strong></p>
 
 
@@ -661,10 +774,9 @@
 
 
 
-
 <figure>
 
-<img src="800px-Power_of_Words_by_Antonio_Litterio.jpg" alt="" >
+<img data-src="800px-Power_of_Words_by_Antonio_Litterio.jpg" class="lazyload" alt="" >
 
 
   
@@ -676,32 +788,20 @@
 
 </figure>
 
-
 <p>$$w(i, j) = k(i) – d$$</p>
-
 <p>This network represents the adjacencies of common adjectives and nouns in the novel &ldquo;David Copperfield&rdquo; by Charles Dickens.</p>
-
 <p>The generator configures a simple combination of preferential attachment with a preference for connecting to close vertices. An increase in the degree of a node also increases its reach, as the distance term can be higher with making the weight negative, and thus null.</p>
-
 <h2 id="facebook">Facebook</h2>
-
 <p><strong>Neighbourhood of a single Facebook user</strong></p>
-
 <p>$$w(i, j) = \psi(3, i \cdot k(i), k(i))$$</p>
-
 <p>The facebook generator combines preferential attachment with affinity in a simple fashion. The constant value for the number of groups suggests pre-existing social circles.</p>
-
 <ul>
 <li><strong>affinity:</strong> $i \cdot k(i)$</li>
 <li><strong>no affinity:</strong> $k(i)$</li>
 </ul>
-
 <p>The role of the factor $i$ in case of affinity appears to be two-fold: increase the propensity for connections inside pre-existing social circles (for the most cases $i &gt; 1$) and capture an external preference for certain connections within such groups over others. This matches the intuition that popularity in the real world is expressed in the facebook social graph.</p>
-
 <p>Connections between groups follow a pure preferential attachment regime, matching the intuition that more popular individuals are more likely to act as bridges between communities.</p>
-
 <h2 id="c-elegans">C. Elegans</h2>
-
 <p><strong>Brain of a <em>C. Elegans</em> roundworm</strong></p>
 
 
@@ -716,26 +816,22 @@
 
 
 
-
 <figure>
 
-<img src="CrawlingCelegans.gif" alt="" >
+<img data-src="CrawlingCelegans.gif" class="lazyload" alt="" >
 
 
   
   
   <figcaption>
-    Crawling C. elegans (CC BY-SA 3.0 Bob Goldstein <a href="http://labs.bio.unc.edu/Goldstein/movies.html" target="_blank">http://labs.bio.unc.edu/Goldstein/movies.html</a>)
+    Crawling C. elegans (CC BY-SA 3.0 Bob Goldstein <a href="http://labs.bio.unc.edu/Goldstein/movies.html">http://labs.bio.unc.edu/Goldstein/movies.html</a>)
   </figcaption>
 
 
 </figure>
 
-
 <p>$$w(i, j) = log(d_D)d_D – 7 – min(j + 0.52, 0.77)$$</p>
-
 <p>The C.elegans generator uses two variables: $d_D$ and $j$. Given the term where $j$ appears, $min(j + 0.52, 0.77)$, a distinction is only made between $j = 0$ and $j &gt; 0$. For the first case, the term takes the value $0.52$, for the second the value $0.77$. The first term uses the $d_D$ variable, which takes integer values in ${0, &hellip;, 5}$. Only values equal to or greater than $2$ are relevant, given that $d_D = 0$ configures a self-link, while $d_D = 1$ indicates an already existing arc. Both these situations are prohibited in the configuration we use.</p>
-
 <p>As negative values are considered null weights, we can reduce the generator to $3$ possible situations, shown in the following table:</p>
 
 
@@ -750,10 +846,9 @@
 
 
 
-
 <figure>
 
-<img src="celegans_table.png" alt="" >
+<img data-src="celegans_table.png" class="lazyload" alt="" >
 
 
   
@@ -765,13 +860,9 @@
 
 </figure>
 
-
 <p>Here we can see that the rule is indeed very simple: the generator promotes the creation of A→B arcs where an A→C→B arc already exists ($d_D = 2$). For the special case of an arc where the target has the sequential identifier $0$, $d_D = 3$ is also allowed, albeit with a much lower probability. For $d_D = 2$, connection to this special node are also slightly preferred.</p>
-
 <p>Sequential identifiers are abstractions meant to capture some <em>a priori</em> heterogeneity in the vertex set, so the meaning of the special node 0 can only be speculated on. It might represent a certain spatial constraint for a neuron or a different behaviour of the neuron through some mechanism. Such interpretations are beyond the scope of the work and better left to researchers with the adequate domain knowledge.</p>
-
 <h2 id="proteins">Proteins</h2>
-
 <p><strong>A network of protein interactions in Homo Sapiens</strong></p>
 
 
@@ -786,10 +877,9 @@
 
 
 
-
 <figure>
 
-<img src="proteins.jpg" alt="" >
+<img data-src="proteins.jpg" class="lazyload" alt="" >
 
 
   
@@ -801,15 +891,10 @@
 
 </figure>
 
-
 <p>$$w(i,j)=⎧⎨⎩log(i),if k(j)={0,if k(i) &lt; 4k(i),otherwise−1,otherwise$$</p>
-
 <p>The protein interactions generator only assigns a non-null weight in two cases: if the target is not yet connected and the origin has a low degree ($k(i) &lt; 4$), or if the degree of the origin and target are the same. Non-null weights are always $log(i)$, indicating an <em>a priori</em> logarithmically distributed propensity for interaction.</p>
-
 <p>This generative process seems to indicate a strong preference for assortativity on degree, establishing edges between proteins that interact with a similar number of other proteins.</p>
-
 <h2 id="software-collaborations">Software Collaborations</h2>
-
 <p><strong>Collaboration network of authors from the CPAN Perl module repository</strong></p>
 
 
@@ -824,10 +909,9 @@
 
 
 
-
 <figure>
 
-<img src="software.jpg" alt="" >
+<img data-src="software.jpg" class="lazyload" alt="" >
 
 
   
@@ -839,26 +923,17 @@
 
 </figure>
 
-
 <p>$$w(i,j)=\psi(k&rsquo;(i)d,k&rsquo;(j),0.7k(j))⋅min(k(j),9)$$</p>
-
 <p>The software collaborations network represents software authors from the CPAN Perl language repository. An arc means then an author uses a software module from another author.</p>
-
 <p>Here we can see that the affinity operator is used. The first parameter of the operator represents the number of groups that the vertex set is divided into, so the higher this value, the less likely affinity between to arbitrary vertices becomes. The number of groups is rounded to the closest integer.</p>
-
 <p>As the number of groups is determined by k′(i)d, an increase in the out-degree of the origin makes affinity less likely and an increase in undirected distance makes it more likely. The expression can be divided into two branches:</p>
-
 <ul>
 <li><strong>affinity:</strong> $k&rsquo;(j)⋅min(k(j),9)$</li>
 <li><strong>no affinity:</strong> $0.7k(j)⋅min(k(j),9)$</li>
 </ul>
-
 <p>Both branches represent a form of preferential attachment. The first one uses a combination of the in- and out-degree of the target, while the second only considers the in-degree.</p>
-
 <p>A plausible interpretation is that the generator proposes two modes of discovery: by proximity in the network or by problem domain affinity. Affinity is more likely when the origin is still an outsider to the environment (low number of dependencies on other authors’ work) or when the topological distance is high — maybe an existing author expanding to a new problem domain. When module discovery is by proximity, the only thing that is taken into account is the number of authors that already depend on the work of the target — its popularity for a certain problem domain. When it is by affinity, the number of authors that it depends on also factors in. This could represent a measure of integrative power — how much the work of a certain author encapsulates existing solutions in a higher abstraction, providing a more useful entry point for a newcomer to its domain.</p>
-
 <h2 id="power-grid">Power Grid</h2>
-
 <p><strong>Power grid of the Western States of the USA</strong></p>
 
 
@@ -873,10 +948,9 @@
 
 
 
-
 <figure>
 
-<img src="power.jpg" alt="" >
+<img data-src="power.jpg" class="lazyload" alt="" >
 
 
   
@@ -888,17 +962,13 @@
 
 </figure>
 
-
 <p>$$w(i,j)=\psi(dd \ cdot {i – 1, if k(j)=0k(i), otherwise, 1, 0)$$</p>
-
 <p>The power grid generator also uses the affinity generator, but in a more binary fashion: the weight is always 1 if there is affinity and null if there is not. All the complexity of the generator is captured by the decision on the number of affinity groups. The following things can be noted about the expression that determines the number of groups:</p>
-
 <ul>
 <li>Overall, the probability of affinity decreases exponentially with distance.</li>
 <li>The node with the sequential identifier 1 overrides the previous rule if the target has no connections, by making the exponent null. This configures a central hub for newcomers to connect to.</li>
 <li>An origin with no connections overrides the previous rule if the target is already connected, also by making the exponent null.</li>
 </ul>
-
 <p>This configures a branching growth behaviour, where new vertices either connect to a central hub or some already connected vertex, but connections between already connected or distant vertices are discouraged. The tree-like structure that originates from this matches our intuitions about the growth of a power grid. The affinity operator, by implicitly using sequence identifiers, might abstract at a high level the underlying spatial constraints.</p>
 
     </div>
@@ -1019,10 +1089,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu4b3c716e35f01dab3989898fd362e0b7_31640_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu4b3c716e35f01dab3989898fd362e0b7_31640_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1108,19 +1179,13 @@
     
     
     
-    <script src="/js/mathjax-config.js"></script>
-    
-
-    
-    
-    
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.3/mermaid.min.js" integrity="" crossorigin="anonymous" title="mermaid"></script>
       
 
       
@@ -1131,10 +1196,6 @@
         
       
 
-      
-      
-      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
     
 
     
@@ -1142,7 +1203,7 @@
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
     
@@ -1207,7 +1268,7 @@
     
     
     
-    <script src="/js/academic.min.0e040a4c8b8532fc173c2fe4328906d0.js"></script>
+    <script src="/js/academic.min.c4716762638572b143da1c828c87dcd8.js"></script>
 
     
 
