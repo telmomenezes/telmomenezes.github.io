@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Computational Social Science</title>
       <link>/tags/computational-social-science/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/computational-social-science/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Filter Bubbles</title>
       <link>/tags/filter-bubbles/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/filter-bubbles/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Recommendation Algorithms</title>
       <link>/tags/recommendation-algorithms/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/recommendation-algorithms/</guid>
       <description></description>
     </item>

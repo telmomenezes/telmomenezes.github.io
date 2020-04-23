@@ -5,7 +5,7 @@
     <link>/authors/camille-roth/</link>
       <atom:link href="/authors/camille-roth/index.xml" rel="self" type="application/rss+xml" />
     <description>Camille Roth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
       <title>Camille Roth</title>
@@ -15,10 +15,15 @@
     <item>
       <title>Tubes &amp; Bubbles -- Topological confinement of YouTube recommendations</title>
       <link>/publication/roth-2020-tubes/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/roth-2020-tubes/</guid>
-      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05324&#34;&gt;https://arxiv.org/abs/2001.05324&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The article can be accessed here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703&#34;&gt;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This webpage provides a nice summary of the findings:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cmb-css.github.io/bubbletube/&#34;&gt;https://cmb-css.github.io/bubbletube/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some press releases:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnrs.fr/en/how-we-end-confined-youtube&#34;&gt;http://www.cnrs.fr/en/how-we-end-confined-youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eurekalert.org/pub_releases/2020-04/c-hwe042220.php&#34;&gt;https://www.eurekalert.org/pub_releases/2020-04/c-hwe042220.php&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

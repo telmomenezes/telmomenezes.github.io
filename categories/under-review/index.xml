@@ -5,22 +5,12 @@
     <link>/categories/under-review/</link>
       <atom:link href="/categories/under-review/index.xml" rel="self" type="application/rss+xml" />
     <description>Under Review</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
       <title>Under Review</title>
       <link>/categories/under-review/</link>
     </image>
-    
-    <item>
-      <title>Tubes &amp; Bubbles -- Topological confinement of YouTube recommendations</title>
-      <link>/publication/roth-2020-tubes/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/roth-2020-tubes/</guid>
-      <description>&lt;p&gt;The preprint can be accessed here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05324&#34;&gt;https://arxiv.org/abs/2001.05324&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Semantic Hypergraphs</title>
