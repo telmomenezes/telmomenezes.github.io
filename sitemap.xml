@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/talk/sunbelt-2020/</loc>
+    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/nlp/</loc>
     <lastmod>2020-07-20T20:00:00+00:00</lastmod>
   </url>
@@ -38,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/authors/telmo-menezes/</loc>
+    <loc>/</loc>
     <lastmod>2020-07-20T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/telmo-menezes/</loc>
     <lastmod>2020-07-20T20:00:00+00:00</lastmod>
   </url>
   
