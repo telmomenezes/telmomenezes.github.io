@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 19:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Antoine Mazières</title>
-      <link>/authors/antoine-mazieres/</link>
-      <pubDate>Mon, 20 Jul 2020 19:30:00 +0000</pubDate>
-      <guid>/authors/antoine-mazieres/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Camille Roth</title>
       <link>/authors/camille-roth/</link>
-      <pubDate>Mon, 20 Jul 2020 19:30:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 20:00:00 +0000</pubDate>
       <guid>/authors/camille-roth/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Telmo Menezes</title>
       <link>/authors/telmo-menezes/</link>
-      <pubDate>Mon, 20 Jul 2020 19:30:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 20:00:00 +0000</pubDate>
       <guid>/authors/telmo-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoine Mazières</title>
+      <link>/authors/antoine-mazieres/</link>
+      <pubDate>Mon, 20 Jul 2020 19:30:00 +0000</pubDate>
+      <guid>/authors/antoine-mazieres/</guid>
       <description></description>
     </item>
     

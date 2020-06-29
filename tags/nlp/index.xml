@@ -5,12 +5,20 @@
     <link>/tags/nlp/</link>
       <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
       <title>NLP</title>
       <link>/tags/nlp/</link>
     </image>
+    
+    <item>
+      <title>Extracting Conflict Networks from the News with Semantic Hypergraphs</title>
+      <link>/talk/ic2s2-2020-semantic_hypergraphs/</link>
+      <pubDate>Mon, 20 Jul 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/ic2s2-2020-semantic_hypergraphs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Hypergraphs</title>
