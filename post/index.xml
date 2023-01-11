@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2017 19:14:41 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hue2b9dc0b13d6069ebad132d67fd58ea9_62206_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
@@ -209,7 +209,9 @@
   
   
   &lt;figcaption&gt;
-    Crawling C. elegans (CC BY-SA 3.0 Bob Goldstein &lt;a href=&#34;http://labs.bio.unc.edu/Goldstein/movies.html&#34;&gt;http://labs.bio.unc.edu/Goldstein/movies.html&lt;/a&gt;)
+    Crawling C. elegans (CC BY-SA 3.0 Bob Goldstein 
+&lt;a href=&#34;http://labs.bio.unc.edu/Goldstein/movies.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://labs.bio.unc.edu/Goldstein/movies.html&lt;/a&gt;
+)
   &lt;/figcaption&gt;
 
 

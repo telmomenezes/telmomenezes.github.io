@@ -1,423 +1,270 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/camille-roth/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/computational-social-science/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/knowledge-graphs/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kseniia-puzyrev/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nikita-basov/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/eusn-2022/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/semantic-networks/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/telmo-menezes/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-09-14T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/ic2s2-2020-semantic_hypergraphs/</loc>
     <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nlp/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/telmo-menezes/</loc>
-    <lastmod>2020-07-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/antoine-mazieres/</loc>
     <lastmod>2020-07-20T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/ic2s2-2020-gender/</loc>
     <lastmod>2020-07-20T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/sunbelt-2020/</loc>
     <lastmod>2020-07-16T20:18:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/filter-bubbles/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/open-access/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/recommendation-algorithms/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/roth-2020-tubes/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/automatic-discovery-of-families-of-network-generative-processes/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2019-11-24T22:07:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/synthetic/</loc>
     <lastmod>2019-11-24T22:07:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/social_media-networks-geographical_data-georgia/</loc>
     <lastmod>2019-11-24T19:56:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/belief-landscapes/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/knowledge-representation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/natural-language-understanding/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/preprint/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2019-semantic/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/under-review/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/knowledge-hypergraphs/</loc>
     <lastmod>2017-12-22T19:14:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2017-12-22T19:14:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/scales-of-human-movement/</loc>
     <lastmod>2017-04-04T19:20:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/1/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2017-automatic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/human-movement/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2017-natural/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/scales/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/floriana-gargiulo/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/klaus-hamberger/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2016-new/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2016-non/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/using-evolutionary-computation-to-explain-network-growth/</loc>
     <lastmod>2014-09-05T16:56:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/complex-systems/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/evolutionary-computation/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/generative-models/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/network-science/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2014-symbolic/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2013-automatic/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/evolutionary-multi-agent-simulations/</loc>
     <lastmod>2011-07-12T19:24:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2011-evolutionary/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2011-finding/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jean-philippe-cointet/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2010-precursors/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/7/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2009-coevolution/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ernesto-costa/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2009-evolutionary/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/telmo-de-lucena-torres-de-menezes/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/others/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2008-artificial/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/e-costa/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2008-modeling/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/t-menezes/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2007-designing/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2007-gridbrain/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2006-first/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2006-bitbang/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/baptista-2006-bitbang/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ernesto-jf-costa/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/t-baptista/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/telmo-lt-menezes/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tiago-baptista/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tiago-r-baptista/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2006-towards/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/diamantino-costa/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/miguel-tavares/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/menezes-2000-extension/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/joao-carreira/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/joao-cunha/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/costa-1999-xception/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/graphbrain/</loc>
   </url>
-  
 </urlset>
